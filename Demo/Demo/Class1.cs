@@ -11,5 +11,7 @@ namespace Demo
         private int number;
         private string alphabet;
 
+        public string Alphabet { get => alphabet; set => alphabet = value; }
+        public int Number { get => number; set => number = value; }
     }
 }
