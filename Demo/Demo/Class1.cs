@@ -8,6 +8,8 @@ namespace Demo
 {
     class Class1
     {
-        //new class
+        private int number;
+        private string alphabet;
+
     }
 }
